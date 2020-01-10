@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="cinemes.xsd" generated="2020-01-10T12:51:10">
+    <CINEMES>
+        <CINEID>37146</CINEID>
+        <CINENOM>Boliche Cinemes</CINENOM>
+        <CINEADRECA>Av. Diagonal, 508, 08006 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37147</CINEID>
+        <CINENOM>Cinemes Girona</CINENOM>
+        <CINEADRECA>C. de Girona, 173, 08025 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37149</CINEID>
+        <CINENOM>Cines Verdi Park</CINENOM>
+        <CINEADRECA>C. de Torrijos, 49, 08012 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37152</CINEID>
+        <CINENOM>Cinesa SOM Multiespai</CINENOM>
+        <CINEADRECA>Av Rio de Janeiro, 42, 08016 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37153</CINEID>
+        <CINENOM>Filmoteca de Catalunya</CINENOM>
+        <CINEADRECA>Pl. de Salvador Seguí, 1-9, 08001 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37156</CINEID>
+        <CINENOM>Cines FULL de Cornellà de Llobregat</CINENOM>
+        <CINEADRECA>Av. Baix Llobregat, s/n, Centre Comercial Splau, 08940 Cornellà de Llobregat</CINEADRECA>
+        <LOCALITAT>Cornellà de Llobregat</LOCALITAT>
+        <COMARCA>Baix Llobregat</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37157</CINEID>
+        <CINENOM>CAT Cines Figueres ACEC</CINENOM>
+        <CINEADRECA>Ronda Sud, 17, 17600 Figueres, Girona ‎
+            17600 Figueras</CINEADRECA>
+        <LOCALITAT>Figueres</LOCALITAT>
+        <COMARCA>Alt Empordà</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37160</CINEID>
+        <CINENOM>Ocine Girona</CINENOM>
+        <CINEADRECA>C/ Pont de la Barca, 12, 17007 Girona</CINEADRECA>
+        <LOCALITAT>Girona</LOCALITAT>
+        <COMARCA>Gironès</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37161</CINEID>
+        <CINENOM>Ocine Granollers - El Nord</CINENOM>
+        <CINEADRECA>Centre Comercial El Nord, Carrer del Montseny,4, 08400 Granollers</CINEADRECA>
+        <LOCALITAT>Granollers</LOCALITAT>
+        <COMARCA>Vallès Oriental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37162</CINEID>
+        <CINENOM>JCA Cinemes Lleida - Alpicat</CINENOM>
+        <CINEADRECA>JCA Cinemes Alpicat, Partida Pla de Monsó 25110 Alpicat</CINEADRECA>
+        <LOCALITAT>Alpicat</LOCALITAT>
+        <COMARCA>Segrià</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37164</CINEID>
+        <CINENOM>Cines Bages Centre de Manresa</CINENOM>
+        <CINEADRECA>Els Trullols, s/n, 08243 Manresa</CINEADRECA>
+        <LOCALITAT>Manresa</LOCALITAT>
+        <COMARCA>Bages</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37168</CINEID>
+        <CINENOM>Cines Olot</CINENOM>
+        <CINEADRECA>Carrer de Josep Ayats, 10, 17800 Olot</CINEADRECA>
+        <LOCALITAT>Olot</LOCALITAT>
+        <COMARCA>Garrotxa</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37169</CINEID>
+        <CINENOM>Teatre Municipal de Palafrugell (Cinema Club Garbí)</CINENOM>
+        <CINEADRECA>Carrer Santa Margarida, 1, 7200 Palafrugell, Girona
+            17200 Palafrugell, Girona</CINEADRECA>
+        <LOCALITAT>Palafrugell</LOCALITAT>
+        <COMARCA>Baix Empordà</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37170</CINEID>
+        <CINENOM>Cinema Teatre Comtal de Ripoll</CINENOM>
+        <CINEADRECA>Carrer dels Pirineus, 8, 17500 Ripoll, Girona</CINEADRECA>
+        <LOCALITAT>Ripoll</LOCALITAT>
+        <COMARCA>Ripollès</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37171</CINEID>
+        <CINENOM>Cines Imperial de Sabadell</CINENOM>
+        <CINEADRECA>Pl. Imperial, 4, 08202 Sabadell</CINEADRECA>
+        <LOCALITAT>Sabadell</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37172</CINEID>
+        <CINENOM>Cinemes Sant Cugat</CINENOM>
+        <CINEADRECA>Avinguda del Pla del Vinyet, 50, 08172 Sant Cugat del Vallès</CINEADRECA>
+        <LOCALITAT>Sant Cugat del Vallès</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37174</CINEID>
+        <CINENOM>Ocine Tarragona - Les Gavarres</CINENOM>
+        <CINEADRECA>C.C. Les Gavarres, Autovía Tarragona - Reus, Parc.2, 43006 Tarragona‎‎</CINEADRECA>
+        <LOCALITAT>Tarragona</LOCALITAT>
+        <COMARCA>Tarragonès</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37177</CINEID>
+        <CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+        <CINEADRECA>C. de Sant Antoni Maria Claret, 8, 43800 Valls</CINEADRECA>
+        <LOCALITAT>Valls</LOCALITAT>
+        <COMARCA>Alt Camp</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37178</CINEID>
+        <CINENOM>Multicines Sucre de Vic</CINENOM>
+        <CINEADRECA>C. de la Llotja, 9, 08500 Vic</CINEADRECA>
+        <LOCALITAT>Vic</LOCALITAT>
+        <COMARCA>Osona</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37179</CINEID>
+        <CINENOM>Kubrick Cinema de Vilafranca del Penedès</CINENOM>
+        <CINEADRECA>Carrer del General Prim, 7, 08720 Vilafranca del Penedès</CINEADRECA>
+        <LOCALITAT>Vilafranca del Penedès</LOCALITAT>
+        <COMARCA>Alt Penedès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37182</CINEID>
+        <CINENOM>Cines Verdi</CINENOM>
+        <CINEADRECA>C. de Verdi, 32, 08012 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37183</CINEID>
+        <CINENOM>Screenbox Funatic de Lleida</CINENOM>
+        <CINEADRECA>C. Pi i Margall, 26, 25004 Lleida</CINEADRECA>
+        <LOCALITAT>Lleida</LOCALITAT>
+        <COMARCA>Segrià</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37144</CINEID>
+        <CINENOM>Yelmo Cines Baricentro de Barberà del Vallès</CINENOM>
+        <CINEADRECA>Centre Comercial Baricentro, 08210, Barberà del Vallès, Barcelona</CINEADRECA>
+        <LOCALITAT>Barberà del Vallès</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37187</CINEID>
+        <CINENOM>CineBaix de Sant Feliu de Llobregat</CINENOM>
+        <CINEADRECA>C. de Joan Batllori, 21, 08980 Sant Feliu de Llobregat</CINEADRECA>
+        <LOCALITAT>Sant Feliu de Llobregat</LOCALITAT>
+        <COMARCA>Baix Llobregat</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37189</CINEID>
+        <CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+        <CINEADRECA>Carrer de Sant Pere, 9, 08221 Terrassa, Barcelona</CINEADRECA>
+        <LOCALITAT>Terrassa</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37194</CINEID>
+        <CINENOM>Cinema Casal Montblanquí</CINENOM>
+        <CINEADRECA>C. Casal, 2, 43400 Montblanc</CINEADRECA>
+        <LOCALITAT>Montblanc</LOCALITAT>
+        <COMARCA>Conca de Barberà</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37203</CINEID>
+        <CINENOM>Palau Balaña Multicines</CINENOM>
+        <CINEADRECA>C. de Sant Antoni, 43, 08014 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37208</CINEID>
+        <CINENOM>Cines Filmax Gran Via 4DX de l&apos;Hospitalet de Llobregat</CINENOM>
+        <CINEADRECA>C.C. Gran Vía 2, Avda. Gran Vía, 75, 08908 Hospitalet, Barcelona</CINEADRECA>
+        <LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37215</CINEID>
+        <CINENOM>Cinemes Can Castellet de Sant Boi de Llobregat</CINENOM>
+        <CINEADRECA>C. Jaume I, 32, 08830 Sant Boi de Llobregat</CINEADRECA>
+        <LOCALITAT>Sant Boi de Llobregat</LOCALITAT>
+        <COMARCA>Baix Llobregat</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37221</CINEID>
+        <CINENOM>Cinema Els Til·lers de Sort</CINENOM>
+        <CINEADRECA>Pg. dels Til·lers, s/n, 25560 Sort</CINEADRECA>
+        <LOCALITAT>Sort</LOCALITAT>
+        <COMARCA>Pallars Sobirà</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37222</CINEID>
+        <CINENOM>Auditori de la Biblioteca Municipal Mestre Martí Tauler de Rubí</CINENOM>
+        <CINEADRECA>Carrer d&apos;Aribau, 5, 08191 Rubí</CINEADRECA>
+        <LOCALITAT>Rubí</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37225</CINEID>
+        <CINENOM>Cinemes Majèstic de Tàrrega</CINENOM>
+        <CINEADRECA>Avinguda de Catalunya, 56, 25300 Tàrrega, Lleida</CINEADRECA>
+        <LOCALITAT>Tàrrega</LOCALITAT>
+        <COMARCA>Urgell</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37231</CINEID>
+        <CINENOM>L&apos;Esbarjo Verdi de Cardedeu</CINENOM>
+        <CINEADRECA>C. Lluís Llibre, 27, 08440 Cardedeu</CINEADRECA>
+        <LOCALITAT>Cardedeu</LOCALITAT>
+        <COMARCA>Vallès Oriental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37233</CINEID>
+        <CINENOM>Gran Sarrià Multicines</CINENOM>
+        <CINEADRECA>Ronda del General Mitre, 38-44, 08017 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37235</CINEID>
+        <CINENOM>Ateneu Bar de Banyoles</CINENOM>
+        <CINEADRECA>Pl. Major, 40, 17820 Banyoles</CINEADRECA>
+        <LOCALITAT>Banyoles</LOCALITAT>
+        <COMARCA>Pla de l&apos;Estany</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37240</CINEID>
+        <CINENOM>Casal Municipal d&apos;Amposta</CINENOM>
+        <CINEADRECA>Ctra. Simpàtica, 6, 43870 Amposta</CINEADRECA>
+        <LOCALITAT>Amposta</LOCALITAT>
+        <COMARCA>Montsià</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37244</CINEID>
+        <CINENOM>Centre Cívic Santa Eugènia de Girona</CINENOM>
+        <CINEADRECA>C. Santa Eugènia, 146, 17006 Girona</CINEADRECA>
+        <LOCALITAT>Girona</LOCALITAT>
+        <COMARCA>Gironès</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37248</CINEID>
+        <CINENOM>Biblioteca Esquerra de l&apos;Eixample-Agustí Centelles</CINENOM>
+        <CINEADRECA>C. Comte d&apos;Urgell, 145-147, 08036 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37249</CINEID>
+        <CINENOM>Ateneu de Sant Just</CINENOM>
+        <CINEADRECA>C. de l&apos;Ateneu, 08960 Sant Just Desvern</CINEADRECA>
+        <LOCALITAT>Sant Just Desvern</LOCALITAT>
+        <COMARCA>Baix Llobregat</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37250</CINEID>
+        <CINENOM>Biblioteca de Vilapicina i la Torre Llobeta</CINENOM>
+        <CINEADRECA>Pl. Carmen Laforet, 11, 08016 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37256</CINEID>
+        <CINENOM>Vigatà Cinema</CINENOM>
+        <CINEADRECA>C. de Jacint Verdaguer, 22, 08500 Vic</CINEADRECA>
+        <LOCALITAT>Vic</LOCALITAT>
+        <COMARCA>Osona</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37257</CINEID>
+        <CINENOM>CineCiutat de Palma</CINENOM>
+        <CINEADRECA>C. Emperadriu Eugènia, 6, 07010 Palma</CINEADRECA>
+        <LOCALITAT>Palma</LOCALITAT>
+        <COMARCA>Mallorca</COMARCA>
+        <PROVINCIA>ILLES BALEARS</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37269</CINEID>
+        <CINENOM>Teatre Municipal l&apos;Ateneu d&apos;Igualada</CINENOM>
+        <CINEADRECA>C. Sant Pau, 9, 08700 Igualada</CINEADRECA>
+        <LOCALITAT>Igualada</LOCALITAT>
+        <COMARCA>Anoia</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37279</CINEID>
+        <CINENOM>Cinemes Arinco de Palamós</CINENOM>
+        <CINEADRECA>Avinguda de l&apos;Onze de Setembre, 35, 17230 Sant Joan de Palamós, Girona</CINEADRECA>
+        <LOCALITAT>Palamós</LOCALITAT>
+        <COMARCA>Baix Empordà</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37291</CINEID>
+        <CINENOM>Teatre Can Rajoler de Parets del Vallès</CINENOM>
+        <CINEADRECA>Carrer Travessera, 1, 08150 Parets del Vallès</CINEADRECA>
+        <LOCALITAT>Parets del Vallès</LOCALITAT>
+        <COMARCA>Vallès Oriental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37300</CINEID>
+        <CINENOM>Cinemes Albèniz Plaça de Girona</CINENOM>
+        <CINEADRECA>Edifici Mercadal. Plaça Jordi de Sant Jordi, 1, 17001 Girona</CINEADRECA>
+        <LOCALITAT>Girona</LOCALITAT>
+        <COMARCA>Gironès</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37302</CINEID>
+        <CINENOM>Teatre Mundial de La Bisbal d&apos;Empordà</CINENOM>
+        <CINEADRECA>Passeig Marimon Asprer, 10, 17100 La Bisbal d&apos;Empordà, Girona</CINEADRECA>
+        <LOCALITAT>La Bisbal d&apos;Empordà</LOCALITAT>
+        <COMARCA>Baix Empordà</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37304</CINEID>
+        <CINENOM>Patronat Teatre de Premià de Mar</CINENOM>
+        <CINEADRECA>Carrer Mn. Josep Paradeda, 26, 08330 Premià de Mar</CINEADRECA>
+        <LOCALITAT>Premià de Mar</LOCALITAT>
+        <COMARCA>Maresme</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37306</CINEID>
+        <CINENOM>Teatre de Sarrià</CINENOM>
+        <CINEADRECA>Carrer Pare Miquel de Sarrià, 8 08034 Barcelona
+            Carrer Pare Miquel de Sarrià, 8 08034 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37313</CINEID>
+        <CINENOM>Teatre Principal de Lleida</CINENOM>
+        <CINEADRECA>Plaça Paeria, 7, 25007 Lleida</CINEADRECA>
+        <LOCALITAT>Lleida</LOCALITAT>
+        <COMARCA>Segrià</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37319</CINEID>
+        <CINENOM>Auditori Municipal Miquel Pont de Castellar del Vallès</CINENOM>
+        <CINEADRECA>Plaça del Mercat, s/n, 08211 Castellar del Vallès</CINEADRECA>
+        <LOCALITAT>Castellar del Vallès</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37336</CINEID>
+        <CINENOM>Cinema Sala Mozart de Calella</CINENOM>
+        <CINEADRECA>C. Església, 91, 08370 Calella</CINEADRECA>
+        <LOCALITAT>Calella</LOCALITAT>
+        <COMARCA>Maresme</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37371</CINEID>
+        <CINENOM>Biblioteca Pública de Lleida</CINENOM>
+        <CINEADRECA>Rambla d&apos;Aragó, 10, 25002 Lleida</CINEADRECA>
+        <LOCALITAT>Lleida</LOCALITAT>
+        <COMARCA>Segrià</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37402</CINEID>
+        <CINENOM>Balmes Multicines</CINENOM>
+        <CINEADRECA>C/ Balmes, 422-424, 08022 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37405</CINEID>
+        <CINENOM>Sala d&apos;Actes de l&apos;Ajuntament de Balaguer</CINENOM>
+        <CINEADRECA>Plaça Mercadal, 1, 25600 Balaguer</CINEADRECA>
+        <LOCALITAT>Balaguer</LOCALITAT>
+        <COMARCA>Noguera</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37406</CINEID>
+        <CINENOM>Cinemes Texas</CINENOM>
+        <CINEADRECA>Carrer Bailèn, 205, 08037 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37410</CINEID>
+        <CINENOM>Centre Cívic Ateneu Fort Pienc</CINENOM>
+        <CINEADRECA>Plaça Fort Pienc, 4-5, 08013 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37419</CINEID>
+        <CINENOM>Pendent de confirmar</CINENOM>
+        <CINEADRECA>--</CINEADRECA>
+        <LOCALITAT>Pendent de confirmar</LOCALITAT>
+        <COMARCA>--</COMARCA>
+        <PROVINCIA>--</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37422</CINEID>
+        <CINENOM>Teatre Principal de Badalona</CINENOM>
+        <CINEADRECA>Carrer de Francesc Layret, 41, 08911 Badalona</CINEADRECA>
+        <LOCALITAT>Badalona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37429</CINEID>
+        <CINENOM>Cinema Casal de Gràcia de Manlleu</CINENOM>
+        <CINEADRECA>Carrer Roca, 4, 08560 Manlleu</CINEADRECA>
+        <LOCALITAT>Manlleu</LOCALITAT>
+        <COMARCA>Osona</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37436</CINEID>
+        <CINENOM>Atrium Teatre de Viladecans</CINENOM>
+        <CINEADRECA>Av. de Josep Tarradellas, 17, 08840 Viladecans</CINEADRECA>
+        <LOCALITAT>Viladecans</LOCALITAT>
+        <COMARCA>Baix Llobregat</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37377</CINEID>
+        <CINENOM>Ocimax Maó Aficine</CINENOM>
+        <CINEADRECA>Carrer de Santiago Ramon y Cajal, 15, 07702 Maó</CINEADRECA>
+        <LOCALITAT>Maó</LOCALITAT>
+        <COMARCA>Menorca</COMARCA>
+        <PROVINCIA>ILLES BALEARS</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37455</CINEID>
+        <CINENOM>Cinema Catalunya de Ribes de Freser</CINENOM>
+        <CINEADRECA>Carrer Major, 19, 17534 Ribes de Freser</CINEADRECA>
+        <LOCALITAT>Ribes de Freser</LOCALITAT>
+        <COMARCA>Ripollès</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37468</CINEID>
+        <CINENOM>Cinema de La Unió Social de Flix</CINENOM>
+        <CINEADRECA>Carrer de Girona, 6, 43750 Flix</CINEADRECA>
+        <LOCALITAT>Flix</LOCALITAT>
+        <COMARCA>Ribera d&apos;Ebre</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37461</CINEID>
+        <CINENOM>Centre Cultural Infant Pere de l&apos;Hospitalet de l&apos;Infant</CINENOM>
+        <CINEADRECA>C. Ramon Berenguer IV, 2 43890 L&apos;Hospitalet de l&apos;Infant</CINEADRECA>
+        <LOCALITAT>L&apos;Hospitalet de l&apos;Infant</LOCALITAT>
+        <COMARCA>Baix Camp</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37487</CINEID>
+        <CINENOM>Biblioteca Vapor Badia de Sabadell</CINENOM>
+        <CINEADRECA>Carrer Tres Creus, 127, 08202 Sabadell</CINEADRECA>
+        <LOCALITAT>Sabadell</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37489</CINEID>
+        <CINENOM>Teatre Principal de Vilanova i la Geltrú</CINENOM>
+        <CINEADRECA>Rambla Principal, 4, 08800 Vilanova i la Geltrú</CINEADRECA>
+        <LOCALITAT>Vilanova i la Geltrú</LOCALITAT>
+        <COMARCA>Garraf</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37508</CINEID>
+        <CINENOM>Cinema El Casal de Torelló</CINENOM>
+        <CINEADRECA>Plaça Nova, 14, 08570 Torelló</CINEADRECA>
+        <LOCALITAT>Torelló</LOCALITAT>
+        <COMARCA>Osona</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37520</CINEID>
+        <CINENOM>Biblioteca Pública de Tarragona</CINENOM>
+        <CINEADRECA>Carrer de Fortuny, 30, 43001 Tarragona</CINEADRECA>
+        <LOCALITAT>Tarragona</LOCALITAT>
+        <COMARCA>Tarragonès</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37521</CINEID>
+        <CINENOM>Biblioteca Singuerlin - Salvador Cabré de Santa Coloma de Gramenet</CINENOM>
+        <CINEADRECA>Pl. Sagrada Família, s/n, 08921 Santa Coloma de Gramenet</CINEADRECA>
+        <LOCALITAT>Santa Coloma de Gramenet</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37527</CINEID>
+        <CINENOM>Casal de Cultura de Matadepera</CINENOM>
+        <CINEADRECA>Carrer Pere Aldavert, 4, 08230 Matadepera</CINEADRECA>
+        <LOCALITAT>Matadepera</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37532</CINEID>
+        <CINENOM>Teatre Patronat de Berga</CINENOM>
+        <CINEADRECA>Carrer Sant Francesc, s/n, 08600 Berga</CINEADRECA>
+        <LOCALITAT>Berga</LOCALITAT>
+        <COMARCA>Berguedà</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37534</CINEID>
+        <CINENOM>Centre Cultural de Mollerussa</CINENOM>
+        <CINEADRECA>Carrer Ferran Puig, 15, 25230 Mollerussa</CINEADRECA>
+        <LOCALITAT>Mollerussa</LOCALITAT>
+        <COMARCA>Pla d&apos;Urgell</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37544</CINEID>
+        <CINENOM>Cines Odeón d&apos;Elx</CINENOM>
+        <CINEADRECA>Carrer Juan Ramón Jiménez, 18, 03295 Elx</CINEADRECA>
+        <LOCALITAT>Elx</LOCALITAT>
+        <COMARCA>Alacant</COMARCA>
+        <PROVINCIA>VALÈNCIA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37564</CINEID>
+        <CINENOM>Teatre Cultural Els Catòlics de Cardona</CINENOM>
+        <CINEADRECA>Plaça del Vall, s/n, 08261 Cardona</CINEADRECA>
+        <LOCALITAT>Cardona</LOCALITAT>
+        <COMARCA>Bages</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37565</CINEID>
+        <CINENOM>Patronat Parroquial d&apos;Esparreguera</CINENOM>
+        <CINEADRECA>Carrer del Mestre Tomàs Cabeza, 3, 08292 Esparreguera</CINEADRECA>
+        <LOCALITAT>Esparreguera</LOCALITAT>
+        <COMARCA>Baix Llobregat</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37566</CINEID>
+        <CINENOM>Sala d&apos;Actes del Centre Cultural de Gelida</CINENOM>
+        <CINEADRECA>Carrer Major, 51, 08790 Gelida</CINEADRECA>
+        <LOCALITAT>Gelida</LOCALITAT>
+        <COMARCA>Alt Penedès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37568</CINEID>
+        <CINENOM>Teatre Municipal La Sala de Rubí</CINENOM>
+        <CINEADRECA>Carrer de Miguel de Cervantes, 126, 08191 Rubí</CINEADRECA>
+        <LOCALITAT>Rubí</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37570</CINEID>
+        <CINENOM>Casa Elizalde de Barcelona</CINENOM>
+        <CINEADRECA>Carrer de València, 302, 08009 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37573</CINEID>
+        <CINENOM>Teatre Auditori Felip Pedrell de Tortosa</CINENOM>
+        <CINEADRECA>Passeig de Ribera, 11, 43500 Tortosa</CINEADRECA>
+        <LOCALITAT>Tortosa</LOCALITAT>
+        <COMARCA>Baix Ebre</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37552</CINEID>
+        <CINENOM>Biblioteca Ramon Fernàndez Jurado de Castelldefels</CINENOM>
+        <CINEADRECA>Carrer Bisbe Urquinaona, 19, 08860 Castelldefels</CINEADRECA>
+        <LOCALITAT>Castelldefels</LOCALITAT>
+        <COMARCA>Baix Llobregat</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37588</CINEID>
+        <CINENOM>Ateneu Adrianenc de Sant Adrià de Besòs</CINENOM>
+        <CINEADRECA>Carrer d&apos;Andreu Vidal, 7, 08930 Sant Adrià de Besòs</CINEADRECA>
+        <LOCALITAT>Sant Adrià de Besòs</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37594</CINEID>
+        <CINENOM>Societat La Lliga de Capellades</CINENOM>
+        <CINEADRECA>Carrer del Pilar, 13, 08786 Capellades</CINEADRECA>
+        <LOCALITAT>Capellades</LOCALITAT>
+        <COMARCA>Anoia</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37598</CINEID>
+        <CINENOM>Casino Guixolenc de Sant Feliu de Guíxols</CINENOM>
+        <CINEADRECA>Passeig del Mar, 36-38, 17220 Sant Feliu de Guíxols</CINEADRECA>
+        <LOCALITAT>Sant Feliu de Guíxols</LOCALITAT>
+        <COMARCA>Baix Empordà</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37599</CINEID>
+        <CINENOM>Auditori Municipal de Santa Coloma de Farners</CINENOM>
+        <CINEADRECA>Carrer de la Malva, 55, 17430 Santa Coloma de Farners</CINEADRECA>
+        <LOCALITAT>Santa Coloma de Farners</LOCALITAT>
+        <COMARCA>Selva</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37600</CINEID>
+        <CINENOM>Convent de les Arts d&apos;Alcover</CINENOM>
+        <CINEADRECA>Ctra. de Mont-ral, km 1, 43460 Alcover</CINEADRECA>
+        <LOCALITAT>Alcover</LOCALITAT>
+        <COMARCA>Alt Camp</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37601</CINEID>
+        <CINENOM>Centre Municipal de Cultura - Auditori Sala Salbà de La Bisbal del Penedès</CINENOM>
+        <CINEADRECA>Plaça Major, 11-13, 43717 La Bisbal del Penedès</CINEADRECA>
+        <LOCALITAT>La Bisbal del Penedès</LOCALITAT>
+        <COMARCA>Baix Penedès</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37602</CINEID>
+        <CINENOM>Sala Francesc Buireu (Casal Cívic) de Cervera</CINENOM>
+        <CINEADRECA>C/ Manel Ibarra, S/N, 25200 Cervera</CINEADRECA>
+        <LOCALITAT>Cervera</LOCALITAT>
+        <COMARCA>Segarra</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37604</CINEID>
+        <CINENOM>Teatre Auditori Agustí Soler i Mas de Navarcles</CINENOM>
+        <CINEADRECA>Av. Generalitat, 1, 08270 Navarcles</CINEADRECA>
+        <LOCALITAT>Navarcles</LOCALITAT>
+        <COMARCA>Bages</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37607</CINEID>
+        <CINENOM>Casal de Calaf - Cineclub Sismes</CINENOM>
+        <CINEADRECA>Carretera Llarga, 11, 08280 Calaf</CINEADRECA>
+        <LOCALITAT>Calaf</LOCALITAT>
+        <COMARCA>Anoia</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37623</CINEID>
+        <CINENOM>Teatre Mercè Rodoreda de Sant Joan Despí</CINENOM>
+        <CINEADRECA>Carrer Major, 69, 08970 Sant Joan Despí</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37625</CINEID>
+        <CINENOM>Sala Centre Recreatiu de Cassà de la Selva</CINENOM>
+        <CINEADRECA>Plaça de la Coma, 11, 17244 Cassà de la Selva</CINEADRECA>
+        <LOCALITAT>Cassà de la Selva</LOCALITAT>
+        <COMARCA>Gironès</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37626</CINEID>
+        <CINENOM>Auditori Sixto Mir de Sant Carles de la Ràpita</CINENOM>
+        <CINEADRECA>Carrer Vall de Safan, 70, 43540 Sant Carles de la Ràpita</CINEADRECA>
+        <LOCALITAT>Sant Carles de la Ràpita</LOCALITAT>
+        <COMARCA>Montsià</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37649</CINEID>
+        <CINENOM>Auditori de Sant Martí</CINENOM>
+        <CINEADRECA>Plaça d&apos;Angeleta Ferrer, 2, 08020 Barcelona</CINEADRECA>
+        <LOCALITAT>Barcelona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37650</CINEID>
+        <CINENOM>Auditori de la Casa de Cultura la Vila de Martorell</CINENOM>
+        <CINEADRECA>C/ Francesc Santacana, 13, 08760 Martorell</CINEADRECA>
+        <LOCALITAT>Martorell</LOCALITAT>
+        <COMARCA>Baix Llobregat</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37651</CINEID>
+        <CINENOM>Cafè del Mar (sala d&apos;actes) de Mataró</CINENOM>
+        <CINEADRECA>Carrer Santa Rita, 1, 08301 Mataró</CINEADRECA>
+        <LOCALITAT>Mataró</LOCALITAT>
+        <COMARCA>Maresme</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37652</CINEID>
+        <CINENOM>Centre de la Imatge Mas Iglesias de Reus</CINENOM>
+        <CINEADRECA>Plaça de Ramon Amigo, 1, 43204 Reus</CINEADRECA>
+        <LOCALITAT>Reus</LOCALITAT>
+        <COMARCA>Baix Camp</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37653</CINEID>
+        <CINENOM>Sala La Canal de Tona</CINENOM>
+        <CINEADRECA>Carrer Antoni Figueras, 23, 08551 Tona</CINEADRECA>
+        <LOCALITAT>Tona</LOCALITAT>
+        <COMARCA>Osona</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37654</CINEID>
+        <CINENOM>Biblioteca Pública de Maó</CINENOM>
+        <CINEADRECA>Plaça de la Conquesta, 8, 07701 Maó</CINEADRECA>
+        <LOCALITAT>Maó</LOCALITAT>
+        <COMARCA>Menorca</COMARCA>
+        <PROVINCIA>ILLES BALEARS</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37660</CINEID>
+        <CINENOM>Can Trona - Centre de Cultura i Natura de la Vall d&apos;en Bas</CINENOM>
+        <CINEADRECA>Passatge Can Trona, 26, 17176 Joanetes (La Vall d&apos;en Bas)</CINEADRECA>
+        <LOCALITAT>Joanetes (La Vall d&apos;en Bas)</LOCALITAT>
+        <COMARCA>Garrotxa</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37670</CINEID>
+        <CINENOM>Cineclub Adler - Teatre Municipal de Lloret de Mar</CINENOM>
+        <CINEADRECA>Plaça Germinal Ros, 1 (Parc de Can Saragossa) 17310 Lloret de Mar</CINEADRECA>
+        <LOCALITAT>Lloret de Mar</LOCALITAT>
+        <COMARCA>Selva</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37704</CINEID>
+        <CINENOM>Teatre Casino Llagosterenc</CINENOM>
+        <CINEADRECA>Plaça Catalunya, 6, 17240 Llagostera</CINEADRECA>
+        <LOCALITAT>Llagostera</LOCALITAT>
+        <COMARCA>Gironès</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37706</CINEID>
+        <CINENOM>Sala de cinema del Centre Recreatiu de Villalonga del Camp</CINENOM>
+        <CINEADRECA>Crta. de Valls, 1, 43141 Vilallonga del Camp</CINEADRECA>
+        <LOCALITAT>Vilallonga del Camp</LOCALITAT>
+        <COMARCA>Tarragonès</COMARCA>
+        <PROVINCIA>TARRAGONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37725</CINEID>
+        <CINENOM>Cinema Edison de Granollers</CINENOM>
+        <CINEADRECA>Carrer Joan Camps, 1, 08401 Granollers</CINEADRECA>
+        <LOCALITAT>Granollers</LOCALITAT>
+        <COMARCA>Vallès Oriental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37731</CINEID>
+        <CINENOM>Cinéma Le Puigmal d&apos;Oceja</CINENOM>
+        <CINEADRECA>1 avenue de Cerdagne, 66340 Oceja</CINEADRECA>
+        <LOCALITAT>Oceja</LOCALITAT>
+        <COMARCA>Occitània</COMARCA>
+        <PROVINCIA>FRANÇA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37732</CINEID>
+        <CINENOM>Cultural Center Jean Ferrat de Cabestany</CINENOM>
+        <CINEADRECA>Avenue du 19 Mars 1962, 66330 Cabestany</CINEADRECA>
+        <LOCALITAT>Cabestany</LOCALITAT>
+        <COMARCA>Occitània</COMARCA>
+        <PROVINCIA>FRANÇA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37733</CINEID>
+        <CINENOM>Salle Évora de Bao</CINENOM>
+        <CINEADRECA>9 rue du Bail, 66540 Bao</CINEADRECA>
+        <LOCALITAT>Bao</LOCALITAT>
+        <COMARCA>Occitània</COMARCA>
+        <PROVINCIA>FRANÇA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37734</CINEID>
+        <CINENOM>Théâtre des Aspres de Tuïr</CINENOM>
+        <CINEADRECA>Boulevard Violet, 66300 Tuïr</CINEADRECA>
+        <LOCALITAT>Tuïr</LOCALITAT>
+        <COMARCA>Occitània</COMARCA>
+        <PROVINCIA>FRANÇA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37735</CINEID>
+        <CINENOM>Cinéma Le Lido de Prada</CINENOM>
+        <CINEADRECA>174 avenue du Général de Gaulle, 66500 Prada de Conflent</CINEADRECA>
+        <LOCALITAT>Prada de Conflent</LOCALITAT>
+        <COMARCA>Occitània</COMARCA>
+        <PROVINCIA>FRANÇA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37739</CINEID>
+        <CINENOM>Cinéma Jean Jaurès d&apos;Argelers</CINENOM>
+        <CINEADRECA>Rue Jean Jaurès, 66700 Argelers</CINEADRECA>
+        <LOCALITAT>Argelers</LOCALITAT>
+        <COMARCA>Occitània</COMARCA>
+        <PROVINCIA>FRANÇA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37740</CINEID>
+        <CINENOM>Cinéma René Vautier d&apos;Elna</CINENOM>
+        <CINEADRECA>13 Boulevard Voltaire, 66200 Elna</CINEADRECA>
+        <LOCALITAT>Elna</LOCALITAT>
+        <COMARCA>Occitània</COMARCA>
+        <PROVINCIA>FRANÇA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37746</CINEID>
+        <CINENOM>Casal de Cultura de Vacarisses</CINENOM>
+        <CINEADRECA>Carrer dels Oms, 1, 08233 Vacarisses</CINEADRECA>
+        <LOCALITAT>Vacarisses</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37747</CINEID>
+        <CINENOM>Sala de Plens de l&apos;Ajuntament de Guissona</CINENOM>
+        <CINEADRECA>Plaça Bisbe Benlloch, 1, 25210 Guissona</CINEADRECA>
+        <LOCALITAT>Guissona</LOCALITAT>
+        <COMARCA>Segarra</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37748</CINEID>
+        <CINENOM>Sala Pau Casals de Linyola</CINENOM>
+        <CINEADRECA>Plaça Pau Casals, s/n, 25240 Linyola</CINEADRECA>
+        <LOCALITAT>Linyola</LOCALITAT>
+        <COMARCA>Pla d&apos;Urgell</COMARCA>
+        <PROVINCIA>LLEIDA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37760</CINEID>
+        <CINENOM>Filmoteca de l&apos;IVAC (València)</CINENOM>
+        <CINEADRECA>Plaça de l&apos;Ajuntament, 17, 46002 València</CINEADRECA>
+        <LOCALITAT>València</LOCALITAT>
+        <COMARCA>València</COMARCA>
+        <PROVINCIA>VALÈNCIA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37767</CINEID>
+        <CINENOM>Octubre Centre de Cultura Contemporània de València</CINENOM>
+        <CINEADRECA>Carrer de Sant Ferran, 12, 46001 València</CINEADRECA>
+        <LOCALITAT>València</LOCALITAT>
+        <COMARCA>València</COMARCA>
+        <PROVINCIA>VALÈNCIA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37771</CINEID>
+        <CINENOM>Sala Arago d&apos;Estagell</CINENOM>
+        <CINEADRECA>Centre Ville, 66310 Estagell</CINEADRECA>
+        <LOCALITAT>Estagell</LOCALITAT>
+        <COMARCA>Occitània</COMARCA>
+        <PROVINCIA>FRANÇA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37772</CINEID>
+        <CINENOM>Ateneu Municipal de Rubí</CINENOM>
+        <CINEADRECA>Carrer de Xile, 1, 08191 Rubí</CINEADRECA>
+        <LOCALITAT>Rubí</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37773</CINEID>
+        <CINENOM>Teatre Municipal Cooperativa de Barberà del Vallès</CINENOM>
+        <CINEADRECA>Passatge de la Cooperativa, 5, 08210 Barberà del Vallès</CINEADRECA>
+        <LOCALITAT>Barberà del Vallès</LOCALITAT>
+        <COMARCA>Vallès Occidental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37779</CINEID>
+        <CINENOM>Cinéma Novelty de Banyuls</CINENOM>
+        <CINEADRECA>3 Rue du 14 Juillet, 66650 Banyuls de la Marenda</CINEADRECA>
+        <LOCALITAT>Banyuls de la Marenda</LOCALITAT>
+        <COMARCA>Occitània</COMARCA>
+        <PROVINCIA>FRANÇA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37783</CINEID>
+        <CINENOM>Cinema Miramare de L&apos;Alguer</CINENOM>
+        <CINEADRECA>Via Giosuè Carducci, 1, 07041 L&apos;Alguer</CINEADRECA>
+        <LOCALITAT>L&apos;Alguer</LOCALITAT>
+        <COMARCA>Sardenya</COMARCA>
+        <PROVINCIA>ITÀLIA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37787</CINEID>
+        <CINENOM>Cinema Truffaut de Girona</CINENOM>
+        <CINEADRECA>(Seu provisional) Plaça Jordi de Sant Jordi, 1, 17001 Girona</CINEADRECA>
+        <LOCALITAT>Girona</LOCALITAT>
+        <COMARCA>Gironès</COMARCA>
+        <PROVINCIA>GIRONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37788</CINEID>
+        <CINENOM>Teatre Auditori Polivalent de Bigues i Riells</CINENOM>
+        <CINEADRECA>C/ Anna Mogas, 130, 08415 Bigues i Riells</CINEADRECA>
+        <LOCALITAT>Bigues i Riells</LOCALITAT>
+        <COMARCA>Vallès Oriental</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37789</CINEID>
+        <CINENOM>Centre Parroquial de Centelles</CINENOM>
+        <CINEADRECA>C/ Marquès de Peñaplata, 14,  08540 Centelles</CINEADRECA>
+        <LOCALITAT>Centelles</LOCALITAT>
+        <COMARCA>Osona</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37790</CINEID>
+        <CINENOM>Sala Teatre d&apos;Òrrius</CINENOM>
+        <CINEADRECA>C/ Esglèsia, s/n, 08317 Òrrius</CINEADRECA>
+        <LOCALITAT>Òrrius</LOCALITAT>
+        <COMARCA>Maresme</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37791</CINEID>
+        <CINENOM>Espai Cultural Fàbrica Vella de Sallent</CINENOM>
+        <CINEADRECA>C/ Camp de la Bota, 5, 08650 Sallent</CINEADRECA>
+        <LOCALITAT>Sallent</LOCALITAT>
+        <COMARCA>Bages</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37792</CINEID>
+        <CINENOM>Sala del Cinquantenari de l&apos;Ateneu</CINENOM>
+        <CINEADRECA>C/ de l’Ateneu, 3, 08960 Sant Just Desvern</CINEADRECA>
+        <LOCALITAT>Sant Just Desvern</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37793</CINEID>
+        <CINENOM>Casal d&apos;Entitats 1 d&apos;Octubre</CINENOM>
+        <CINEADRECA>C/ de Marc Mir, 15, 08770 Sant Sadurní d’Anoia</CINEADRECA>
+        <LOCALITAT>Alt Penedès</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+    <CINEMES>
+        <CINEID>37794</CINEID>
+        <CINENOM>Sala Polivalent de l&apos;Ajuntament de Tavertet</CINENOM>
+        <CINEADRECA>C/ de Jaume Balmes, 1, 08511 Tavertet</CINEADRECA>
+        <LOCALITAT>Osona</LOCALITAT>
+        <COMARCA>Barcelonès</COMARCA>
+        <PROVINCIA>BARCELONA</PROVINCIA>
+    </CINEMES>
+</dataroot>
