@@ -8,7 +8,11 @@ import java.util.List;
 @XmlAccessorType(XmlAccessType.PROPERTY)
 class Cinemes {
     @XmlElement(name = "CINEMES")
-    public List<Cinema> cinemas;
+    private List<Cinema> cinemas;
+
+    public List<Cinema> getCinemas() {
+        return cinemas;
+    }
 }
 
 class Cinema {
@@ -26,4 +30,24 @@ class Cinema {
 
     @XmlElement(name = "PROVINCIA")
     private String cinemaProvincia;
+
+    public int getCinemaId() {
+        return cinemaId;
+    }
+
+    public String getCinemaAdreca() {
+        return cinemaAdreca;
+    }
+
+    public String getCinemaLocalitat() {
+        return cinemaLocalitat;
+    }
+
+    public String getCinemaNom() {
+        return cinemaNom;
+    }
+
+    public String getCinemaProvincia() {
+        return cinemaProvincia;
+    }
 }
