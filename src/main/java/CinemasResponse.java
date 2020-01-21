@@ -10,6 +10,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.List;
 
+@Deprecated
 public class CinemasResponse {
 
     public Cinemes parse(String url1) {
@@ -23,9 +24,6 @@ public class CinemasResponse {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-
-            return JAXB.unmarshal(url, Cinemes.class);
-
+        return JAXB.unmarshal(url, Cinemes.class);
     }
 }

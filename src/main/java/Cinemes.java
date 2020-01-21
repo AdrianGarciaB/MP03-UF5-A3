@@ -28,6 +28,9 @@ class Cinema {
     @XmlElement(name = "LOCALITAT")
     private String cinemaLocalitat;
 
+    @XmlElement(name = "COMARCA")
+    private String cinemaComarca;
+
     @XmlElement(name = "PROVINCIA")
     private String cinemaProvincia;
 
@@ -47,7 +50,21 @@ class Cinema {
         return cinemaNom;
     }
 
+    public String getCinemaComarca() {return cinemaComarca;}
+
     public String getCinemaProvincia() {
         return cinemaProvincia;
+    }
+
+    @Override
+    public String toString() {
+        return "Cinema{" +
+                "cinemaId=" + cinemaId +
+                ", cinemaNom='" + cinemaNom + '\'' +
+                ", cinemaAdreca='" + cinemaAdreca + '\'' +
+                ", cinemaLocalitat='" + cinemaLocalitat + '\'' +
+                ", cinemaComarca='" + cinemaComarca + '\'' +
+                ", cinemaProvincia='" + cinemaProvincia + '\'' +
+                '}';
     }
 }
