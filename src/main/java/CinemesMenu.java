@@ -4,10 +4,8 @@ import com.budhash.cliche.ShellFactory;
 
 import javax.xml.bind.JAXB;
 import java.io.IOException;
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
+import java.util.stream.Collectors;
 
 class Main {
     public static void main(String[] args) throws IOException {
@@ -29,11 +27,11 @@ public class CinemesMenu{
                 + "Menu Principal" + "\n"
                 + "0. Veure les opcions del Menu" + "\n"
                 + "1. Camp a buscar: id, nom, adreça, localitat, comarca, provincia." + "\n"
-                + "2. Mostrar número de jugadores españoles." + "\n"
-                + "3. Añadir jugador." + "\n"
-                + "4. Mostrar jugadores que en la temporada 04/05 tenían una media de puntos por partido superior a 10." + "\n"
-                + "5. Mostrar número de partidos que han ganado los Warriors de más de 15 puntos en la temporada 05/06." + "\n"
-                + "6. Lista de opciones" + "\n"
+                + "2. Mostrar el cinema mes nou." + "\n"
+                + "3. Mostrar tots els cinemes que son a Tarragona." + "\n"
+                + "4. Mostrar el numero de cinemes per Provincia." + "\n"
+                + "5. Mostrar la comarca amb mes cinemes" + "\n"
+                + "6. Mostrar un cinema per cada provincia"
                 + "exit. Para salir" + "\n";
 
     }
@@ -60,11 +58,10 @@ public class CinemesMenu{
                         case "localitat": return x.getCinemaLocalitat().contains(text);
                         case "comarca": return x.getCinemaComarca().contains(text);
                         case "provincia": return x.getCinemaLocalitat().contains(text);
-
-
                     }
                     return false;
                 })
+                .sorted()
                 .forEach(System.out::println);
     }
 
@@ -78,6 +75,37 @@ public class CinemesMenu{
         System.out.println(cinema);
     }
 
+    @Command(name = "3")
+    public void getCinemesOnTarragona(){
+        cinemesList.stream()
+                .filter(x -> x.getCinemaProvincia().equals("TARRAGONA"))
+                .forEach(System.out::println);
+    }
+
+    @Command(name = "4")
+    public void getNumberOfCinemasByProvince(){
+        Map<String, Long> provinceCount = cinemesList.stream().collect(Collectors.groupingBy(Cinema::getCinemaProvincia, Collectors.counting()));
+        System.out.println(provinceCount);
+    }
+
+    @Command(name = "5")
+    public void getRegionPWithMoreCinemas(){
+        Optional<Map.Entry<String, Long>> cinema =
+                cinemesList.stream()
+                    .collect(Collectors.groupingBy(Cinema::getCinemaComarca, Collectors.counting()))
+                        .entrySet()
+                        .stream()
+                        .max(Comparator.comparingLong(Map.Entry::getValue));
+
+        System.out.println("Comarca{" +
+                "comarcaNom=" + cinema.get().getKey() +
+                ", numeroCinemes=" + cinema.get().getValue() + "}");
+    }
+
+    @Command(name = "6")
+    public void getOneCinemaPerProvince(){
+
+    }
 
 
 
